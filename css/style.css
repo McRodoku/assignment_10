@@ -5,6 +5,14 @@ body{
   background-color: #DC143C;
 }
 
+
+h1{
+  text-align: center;
+  font-family: 'Comic Sans MS', sans-serif;
+  font-size: 50px;
+  color: #000000;
+}
+
 div.align{
   text-align: center;
 }
@@ -18,14 +26,4 @@ div.align{
   margin: auto;
 }
 
-h1{
-  text-align: center;
-  font-family: 'Comic Sans MS', sans-serif;
-  font-size: 50px;
-  color: #000000;
-}
-
-  
-
-  
 
