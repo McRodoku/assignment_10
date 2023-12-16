@@ -1,6 +1,6 @@
 body{
   text-align: center;
-  font-family: 'Comic Sans MS', sans-serif;
+  font-family: 'Comic Sans MS';
   font-size: 14px;
   background-color: #DC143C;
 }
@@ -8,7 +8,7 @@ body{
 
 h1{
   text-align: center;
-  font-family: 'Comic Sans MS', sans-serif;
+  font-family: 'Comic Sans MS';
   font-size: 50px;
   color: #000000;
 }
@@ -26,4 +26,6 @@ div.align{
   margin: auto;
 }
 
-
+#mainheader{
+  position: absolute;
+  
